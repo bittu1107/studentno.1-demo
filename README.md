@@ -1,2 +1,4 @@
 # studentno.1-demo
-This is my first repository
+This is my first repository.
+
+author-sasikumar
